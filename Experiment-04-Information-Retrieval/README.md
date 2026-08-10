@@ -10,8 +10,8 @@ Build an Information Retrieval System Using Classical and Nonclassical Models an
 
 | Field           | Details    |
 |-----------------|------------|
-| Student Name    | NAVINKUMAR J    |
-| Register Number | 24AD0193   |
+| Student Name    | Libin anto E    |
+| Register Number | 24AD0147   |
 
 ---
 

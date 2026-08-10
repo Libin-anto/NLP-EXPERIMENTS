@@ -1,8 +1,8 @@
 """
 Natural Language Processing Laboratory
 
-Student Name    : NAVINKUMAR J
-Register Number : 24AD0193
+Student Name    : Libin anto E
+Register Number : 24AD0147
 Experiment      : 02
 Title           : Develop a Part-of-Speech (POS) Tagging System Using NLTK and
                   Evaluate Its Accuracy on a Corpus of News Articles
@@ -34,8 +34,8 @@ from sklearn.metrics import (
 RANDOM_SEED = 42
 TRAIN_RATIO = 0.80
 
-STUDENT_NAME = "NAVINKUMAR J"
-REGISTER_NUMBER = "24AD0193"
+STUDENT_NAME = "Libin anto E"
+REGISTER_NUMBER = "24AD0147"
 EXPERIMENT_TITLE = (
     "Develop a Part-of-Speech (POS) Tagging System Using NLTK and Evaluate\n"
     "Its Accuracy on a Corpus of News Articles"

@@ -1,8 +1,8 @@
 """
 Natural Language Processing Laboratory
 
-Student Name    : NAVINKUMAR J
-Register Number : 24AD0193
+Student Name    : Libin anto E
+Register Number : 24AD0147
 Experiment      : 03
 Title           : Explore Various Text Similarity Metrics, Including WordNet-Based
                   Similarity, for Clustering News Headlines into Topics
@@ -31,8 +31,8 @@ HYBRID_TFIDF_WEIGHT = 0.70
 HYBRID_WORDNET_WEIGHT = 0.30
 NUM_CLUSTERS = 4
 
-STUDENT_NAME = "NAVINKUMAR J"
-REGISTER_NUMBER = "24AD0193"
+STUDENT_NAME = "Libin anto E"
+REGISTER_NUMBER = "24AD0147"
 EXPERIMENT_TITLE = (
     "Explore Various Text Similarity Metrics, Including WordNet-Based\n"
     "Similarity, for Clustering News Headlines into Topics"

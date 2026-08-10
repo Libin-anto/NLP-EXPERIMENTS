@@ -10,8 +10,8 @@ Utilize Word and Phrase-Based Clustering Algorithms to Identify Patterns in Soci
 
 | Field           | Details    |
 |-----------------|------------|
-| Student Name    | NAVINKUMAR J    |
-| Register Number | 24AD0193   |
+| Student Name    | Libin anto E    |
+| Register Number | 24AD0147   |
 
 ---
 

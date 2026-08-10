@@ -10,8 +10,8 @@ Apply Topic Modeling Techniques to Extract Themes from a Collection of Customer 
 
 | Field           | Details    |
 |-----------------|------------|
-| Student Name    | NAVINKUMAR J    |
-| Register Number | 24AD0193   |
+| Student Name    | Libin anto E    |
+| Register Number | 24AD0147   |
 
 ---
 

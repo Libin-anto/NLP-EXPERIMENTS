@@ -10,8 +10,8 @@ Develop a Rule-Based Classifier to Categorize Legal Documents into Different Typ
 
 | Field           | Details    |
 |-----------------|------------|
-| Student Name    | NAVINKUMAR J    |
-| Register Number | 24AD0193   |
+| Student Name    | Libin anto E    |
+| Register Number | 24AD0147   |
 
 ---
 

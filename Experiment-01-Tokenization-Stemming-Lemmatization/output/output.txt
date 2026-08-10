@@ -1,8 +1,8 @@
 ============================================================
 NLP Laboratory — Experiment 01
 ============================================================
-Student Name    : NAVINKUMAR J
-Register Number : 24AD0193
+Student Name    : Libin anto E
+Register Number : 24AD0147
 
 Title:
   Implement Tokenization and Compare the Effectiveness of Stemming Versus

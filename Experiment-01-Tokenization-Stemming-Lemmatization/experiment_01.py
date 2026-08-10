@@ -1,8 +1,8 @@
 """
 Natural Language Processing Laboratory
 
-Student Name    : NAVINKUMAR J
-Register Number : 24AD0193
+Student Name    : Libin anto E
+Register Number : 24AD0147
 Experiment      : 01
 Title           : Implement Tokenization and Compare the Effectiveness of Stemming
                   Versus Lemmatization in Improving Text Preprocessing for Sentiment
@@ -27,8 +27,8 @@ RANDOM_SEED = 42
 SAMPLE_SIZE = 1000          # per class
 TRAIN_RATIO = 0.80
 
-STUDENT_NAME = "NAVINKUMAR J"
-REGISTER_NUMBER = "24AD0193"
+STUDENT_NAME = "Libin anto E"
+REGISTER_NUMBER = "24AD0147"
 EXPERIMENT_TITLE = (
     "Implement Tokenization and Compare the Effectiveness of Stemming Versus\n"
     "Lemmatization in Improving Text Preprocessing for Sentiment Analysis"
